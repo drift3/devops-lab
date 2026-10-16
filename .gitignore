@@ -1,0 +1,12 @@
+# Editor and OS noise
+*.swp
+.DS_Store
+
+# Secrets — NEVER commit these (devsecops-001 makes this automatic)
+*.env
+*.pem
+secrets.yml
+
+# Local junk
+*.log
+tmp/
