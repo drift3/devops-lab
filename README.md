@@ -1,1 +1,1 @@
-# Linux Web Server Lab — production
+# Linux Web Server Lab
